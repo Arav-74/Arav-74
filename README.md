@@ -1,6 +1,6 @@
-
-
-<!---
-Arav-74/Arav-74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi Everyone,
+Welcome to my GitHub
+I have attached my projects and assignments 
+Please feel free to view my projects 
+Thank You
+Aravinth Ravichandran
